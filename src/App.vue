@@ -2,6 +2,10 @@
   <div id="app">
     <div class="container-fluid">
       <app-header></app-header>
+      <h4>Movie Review App</h4>
+      
+      <router-view></router-view> 
+
     </div>
   </div>
 </template>
